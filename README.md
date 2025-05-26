@@ -8,7 +8,7 @@ Structure of Code
 
 Surface Area Approximation 
   1. Since the edge of a Mobius strip is a circle and it is a 2D shape, we can calculate the surface area by multiplying its width with the circumference of the circle.
-  2. Edge length of mobius strip is two times the edge length of the circle because it consist of circle at its both end.
+  2. Edge length of mobius strip is two times the circumference of the circle because it consist of circle at its both end.
 
 
 Learned a lot about the Mobius strip ^_^ and it is a fun challenge for learning new things.
