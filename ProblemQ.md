@@ -61,9 +61,3 @@ This assignment tests:
 * Numerical integration / geometry
 * Visualization
 * Code clarity
-
-
-
-### Submittion
-
-Submit your Assignment at : https://forms.gle/NXhVANGfTXdpE1aCA
