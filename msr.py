@@ -31,7 +31,7 @@ class MobiusStrip:
   def compute_surface_area(self):
     """
     Computes the surface area of the mobius strip using approximation
-    formula : edge of circle mutiplied by width.
+    formula : circumference of circle mutiplied by width.
     """
 
     return 2 * np.pi * self.radius * self.width
@@ -39,7 +39,7 @@ class MobiusStrip:
   def compute_edge_length(self):
     """
     Computes the edge length of the mobius strip using approximation
-    formula : two times the edge length of the circle.
+    formula : two times the circumference of the circle.
     """
 
     return 4 * np.pi * self.radius
